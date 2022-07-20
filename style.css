@@ -1,0 +1,63 @@
+h1{color: cyan;
+font-weight: 700px;}
+.details{
+width: 45%;
+float: left;
+
+
+
+
+}
+img{width:80%;
+height: 100%;}
+.half-weidth{height: 100px;
+padding: 5px;}
+.button{ color: palevioletred;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: aqua;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700px;
+    
+    
+  
+}
+.half-width{ background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    height: 500px;
+
+    
+}
+.biography{ background-image: url("images/biography-bg.png");
+background-repeat: no-repeat;
+height: 500px;}
+.me{margin: 50px;}
+.num1{width: 32%;
+    height: 70%;
+    margin: 5px;
+float: left;}
+.num2{width: 32%;
+    margin: 5px;
+    height: 70%;
+float: left;}
+.num3{width: 32%;
+    margin: 5px;
+    height: 70%;
+float: left;}
+
+.hi{font-weight: 900px;
+text-align: center;
+}
+.last{background-image: url("images/latest-work-bg.png");
+background-repeat: no-repeat;
+height: 500px;}
+.footer{font-weight: 800px;
+text-align: center;}
+.messsage {
+  
+    font-weight: 700px;
+    text-align: center;
+}
+.leave{font-weight: 700px;
+;}
